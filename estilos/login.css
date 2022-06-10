@@ -1,0 +1,30 @@
+body {
+    background-image: url("../img/1.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.container-form {
+    background-color: #f7f8f58b;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #000;
+    width: 50%;
+    height: 70%;
+    margin: auto;
+    margin-top: 7em;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: #4683ffbd;
+}
+
+.label {
+    font-size: 1em;
+    font-weight: bold;
+}
